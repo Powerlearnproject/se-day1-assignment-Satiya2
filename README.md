@@ -10,6 +10,7 @@ Answer:
 Software Engineering is thesystematic application of engineering principles to design,development,testing and maintanance of software systems.it involves using a structured approach to create reliable,efficient, and scalable software solutions that meet specific needs.3.
 
 Key Aspects of Software Engineering:
+
 1.Design and Development: This involves planning and creating software architecture and writing code using various programming languages like Java, Python, and C++1.
 2.Testing: Ensuring the software is free of bugs and performs as expected through rigorous testing processes1.
 3.Maintenance: Updating and improving software to adapt to new requirements or fix issues1.
